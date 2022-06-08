@@ -16,4 +16,4 @@ messagebus:x:101:101:System user; messagebus:/dev/null:/sbin/nologin
 man:x:13:15:System user; man:/dev/null:/sbin/nologin
 sshd:x:22:22:User for ssh:/var/empty:/sbin/nologin
 cron:x:16:16:A user for sys-process/cronbase:/var/spool/cron:/sbin/nologin
-ntp:x:123:123:user for ntp daemon:/dev/null:/sbin/nologin
+ntp:x:123:123:added by portage for ntp:/dev/null:/sbin/nologin

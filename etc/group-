@@ -37,4 +37,3 @@ lpadmin:x:106:
 cron:x:16:
 crontab:x:460:
 locate:x:245:
-ntp:x:123:
