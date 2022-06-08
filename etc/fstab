@@ -27,3 +27,7 @@
 #UUID=58e72203-57d1-4497-81ad-97655bd56494		/		ext4		noatime		0 1
 #LABEL=swap		none		swap		sw		0 0
 #/dev/cdrom		/mnt/cdrom	auto		noauto,ro	0 0
+UUID=94E2-1584					/boot/efi	vfat	defaults,noatime	0 2
+UUID=02084a54-bbee-47f2-a2b3-061181cdcde4	/		ext4	noatime			0 1
+UUID=6a042beb-6e6e-4cda-97be-479e72ecff20	none		swap	sw			0 0
+UUID=d76df4de-7c4d-49ab-89ef-779912537b4f	/home		ext4	defaults,noatime	0 2
