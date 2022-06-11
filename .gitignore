@@ -26,3 +26,4 @@ root/.npm
 root/.cache
 root/.local/share/nvim/shada/main.shada
 var
+root
