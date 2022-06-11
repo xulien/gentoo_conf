@@ -35,3 +35,7 @@
 # from your network provider (if any) or from your regional registry (ARIN, 
 # APNIC, LACNIC, RIPE NCC, or AfriNIC.)
 #
+192.168.0.3	marge
+
+51.159.37.47	platon
+51.15.25.184	socrate

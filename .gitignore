@@ -14,3 +14,13 @@ tmp
 usr
 root/.lesshst
 etc/ld.so.cache
+storage/*
+documents/*
+boot
+var/empty
+var/log
+var/mail
+var/run
+var/spool
+root/.npm
+root/.cache

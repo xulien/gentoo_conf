@@ -1,1 +1,11 @@
 app-admin/sysklogd logrotate
+# required by sys-boot/os-prober-1.79-r2::gentoo
+# required by os-prober (argument)
+sys-boot/grub mount
+# required by media-video/vlc-3.0.17.3-r2::gentoo[vdpau]
+# required by media-libs/phonon-vlc-0.11.3-r1::gentoo
+# required by media-libs/phonon-4.11.1-r1::gentoo[vlc]
+# required by kde-apps/dolphin-21.12.3::gentoo
+# required by @selected
+# required by @world (argument)
+x11-libs/libvdpau abi_x86_32

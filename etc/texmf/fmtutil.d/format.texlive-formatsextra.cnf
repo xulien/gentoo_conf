@@ -1,0 +1,11 @@
+# Generated for texlive-formatsextra	by texlive-module.eclass
+aleph	aleph	-	*aleph.ini
+eplain	pdftex	language.dat	-translate-file=cp227.tcx *eplain.ini
+jadetex	pdftex	language.dat	*jadetex.ini
+pdfjadetex	pdftex	language.dat	*pdfjadetex.ini
+lollipop	tex	-	lollipop.ini
+mllatex	pdftex	language.dat	-translate-file=cp227.tcx -mltex *mllatex.ini
+mltex	pdftex	-	-translate-file=cp227.tcx -mltex mltex.ini
+texsis	pdftex	-	-translate-file=cp227.tcx texsis.ini
+pdfxmltex	pdftex	language.dat	*pdfxmltex.ini
+xmltex	pdftex	language.dat	*xmltex.ini

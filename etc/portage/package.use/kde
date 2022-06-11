@@ -1,0 +1,4 @@
+kde-plasma/plasma-meta grub
+kde-apps/akonadi -mysql postgres tools
+dev-qt/qtsql postgres
+kde-apps/ark zip

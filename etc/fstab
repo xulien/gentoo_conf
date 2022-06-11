@@ -31,3 +31,5 @@ UUID=94E2-1584					/boot/efi	vfat	defaults,noatime	0 2
 UUID=02084a54-bbee-47f2-a2b3-061181cdcde4	/		ext4	noatime			0 1
 UUID=6a042beb-6e6e-4cda-97be-479e72ecff20	none		swap	sw			0 0
 UUID=d76df4de-7c4d-49ab-89ef-779912537b4f	/home		ext4	defaults,noatime	0 2
+UUID=36459563-0abc-4035-bbce-50b46b76c436	/documents	ext4	defaults,noatime	0 2
+UUID=a2fdc75a-60c9-4ad8-bbd7-c7f4f1d7c2c1	/storage	ext4	defaults,noatime	0 2
